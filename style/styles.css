@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 20px;
     line-height: 1.6;
-    background-color: #f5f5f5;
+    background-color: #a40505;
 }
 
 h1 {
-    color: #333;
-    border-bottom: 2px solid #007acc;
+    color: #6411df;
+    border-bottom: 2px solid #f116ee;
     padding-bottom: 10px;
 }
